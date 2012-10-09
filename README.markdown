@@ -1,3 +1,6 @@
+
+*modify: add two more databases as shown in the screen shot
+
 # php-OnlineJudge
 
 ## Sending Emails
