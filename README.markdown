@@ -1,5 +1,7 @@
 
-*modify: add two more databases as shown in the screen shot
+*modify: add two more databases:
+'registrations' with two columns: 'username',varchar, as primary; 'report_id', int;
+'questions' with 8 columns: 'report_id', int; 'username', int; 'category', int; 'problem_id', int; 'ask_time', int; 'question', varchar; 'answer',varchar; 'id', int;
 
 # php-OnlineJudge
 
